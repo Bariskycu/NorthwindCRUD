@@ -1,0 +1,12 @@
+C:\Users\DuyguO\Desktop\ÖDEVLER\Veritabanı\Ödev-3\_NorthwindCRUD\_BusinessLayer\obj\Debug\_BusinessLayer.csprojAssemblyReference.cache
+C:\Users\DuyguO\Desktop\ÖDEVLER\Veritabanı\Ödev-3\_NorthwindCRUD\_BusinessLayer\obj\Debug\_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DuyguO\Desktop\ÖDEVLER\Veritabanı\Ödev-3\_NorthwindCRUD\_BusinessLayer\bin\Debug\_BusinessLayer.dll
+C:\Users\DuyguO\Desktop\ÖDEVLER\Veritabanı\Ödev-3\_NorthwindCRUD\_BusinessLayer\bin\Debug\_BusinessLayer.pdb
+C:\Users\DuyguO\Desktop\ÖDEVLER\Veritabanı\Ödev-3\_NorthwindCRUD\_BusinessLayer\obj\Debug\_BusinessLayer.dll
+C:\Users\DuyguO\Desktop\ÖDEVLER\Veritabanı\Ödev-3\_NorthwindCRUD\_BusinessLayer\obj\Debug\_BusinessLayer.pdb
+C:\Users\baris\OneDrive\Masaüstü\Ödev-3\Ödev-3\Ödev-3\_NorthwindCRUD\_BusinessLayer\bin\Debug\_BusinessLayer.dll
+C:\Users\baris\OneDrive\Masaüstü\Ödev-3\Ödev-3\Ödev-3\_NorthwindCRUD\_BusinessLayer\bin\Debug\_BusinessLayer.pdb
+C:\Users\baris\OneDrive\Masaüstü\Ödev-3\Ödev-3\Ödev-3\_NorthwindCRUD\_BusinessLayer\obj\Debug\_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\baris\OneDrive\Masaüstü\Ödev-3\Ödev-3\Ödev-3\_NorthwindCRUD\_BusinessLayer\obj\Debug\_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\baris\OneDrive\Masaüstü\Ödev-3\Ödev-3\Ödev-3\_NorthwindCRUD\_BusinessLayer\obj\Debug\_BusinessLayer.dll
+C:\Users\baris\OneDrive\Masaüstü\Ödev-3\Ödev-3\Ödev-3\_NorthwindCRUD\_BusinessLayer\obj\Debug\_BusinessLayer.pdb
